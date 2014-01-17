@@ -33,12 +33,12 @@ theme.colors.green   = "#859900"
 theme.font      = "Inconsolata 9"
 
 -- {{{ Colors
-theme.fg_normal  = theme.colors.base2
-theme.fg_focus   = theme.colors.base3
+theme.fg_normal  = theme.colors.base1
+theme.fg_focus   = theme.colors.base2
 theme.fg_urgent  = theme.colors.base03
 
 theme.bg_normal  = theme.colors.base03
-theme.bg_focus   = theme.colors.base01
+theme.bg_focus   = theme.colors.base02
 theme.bg_urgent  = theme.colors.red
 theme.bg_systray = theme.bg_normal
 -- }}}
