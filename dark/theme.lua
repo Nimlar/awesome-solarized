@@ -35,13 +35,13 @@ theme.colors.green        = "#859900"
 -- }}}
 
 -- {{{ Styles
-theme.font = "Terminus 8"
+theme.font = "Terminus 9"
 
 -- {{{ Colors
 theme.bg_normal   = theme.colors.base03
 theme.bg_focus    = theme.colors.base02
 theme.bg_urgent   = theme.colors.red
-theme.bg_minimize = "#444" -- Couldn't find a fitting color in the palette
+--theme.bg_minimize = "#444" -- Couldn't find a fitting color in the palette
 theme.bg_systray  = theme.bg_normal
 
 theme.fg_normal   = theme.colors.base1
