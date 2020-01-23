@@ -15,6 +15,7 @@ local wallpapers_dir = os.getenv("HOME") .. "/.config/awesome/wallpapers/"
 theme                     = {}
 theme.default_themes_path = "/usr/share/awesome/themes/"
 -- theme.wallpaper           = wallpapers_dir .. ""
+theme.wallpaper = theme.default_themes_path.."/zenburn/zenburn-background.png"
 theme.colors              = {}
 theme.colors.base03       = "#002b36"
 theme.colors.base02       = "#073642"
