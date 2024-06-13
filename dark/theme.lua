@@ -36,7 +36,7 @@ theme.colors.green        = "#859900"
 -- }}}
 
 -- {{{ Styles
-theme.font = "Terminus 9"
+theme.font = "SourceCodePro-Medium 9"
 
 -- {{{ Colors
 theme.bg_normal   = theme.colors.base03
